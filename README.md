@@ -1,6 +1,6 @@
 # Bankist App
 
-#to login 
+# To login 
 
 ## account 
 1- js pin 1111
