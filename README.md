@@ -1,8 +1,8 @@
 # Bankist App
 
-##to login 
+#to login 
 
-# account 
+## account 
 1- js pin 1111
 2- jd pin 2222
 
