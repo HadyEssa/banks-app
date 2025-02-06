@@ -1,5 +1,11 @@
 # Bankist App
 
+##to login 
+
+# account 
+1- js pin 1111
+2- jd pin 2222
+
 ## Overview
 
 Bankist is a simple front-end project simulating an online banking application. The design includes features such as balance overview, transaction history, money transfers, loan requests, and account management. This project primarily demonstrates the integration of HTML, CSS, and JavaScript to create an interactive user interface.
